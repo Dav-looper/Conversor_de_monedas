@@ -7,9 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-<<<<<<< HEAD
     <orderEntry type="library" exported="" name="gson-2.13.1" level="project" />
-=======
->>>>>>> 1373d41c75c6c4d1576a76b0e9ae728cd0a8feac
   </component>
 </module>
